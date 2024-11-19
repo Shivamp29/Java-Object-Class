@@ -11,7 +11,7 @@ class demo1{
     }
 }
 
-public class Main {
+public class OverHashCodeImpl {
 
     public static void main(String[] args) {
         
