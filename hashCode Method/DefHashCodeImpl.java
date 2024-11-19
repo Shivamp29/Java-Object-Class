@@ -27,8 +27,8 @@ public class DefHashCodeImpl {
         int n4 = d2.hashCode();
 
         // printing hashCode values
-        System.out.println("hashCode of  d1 : "+d1); 
-        System.out.println("hashCode of  d2 : "+d2);
+        System.out.println("hashCode of  d1 : "+n3); 
+        System.out.println("hashCode of  d2 : "+n4);
 
     }
 }
