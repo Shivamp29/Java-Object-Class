@@ -11,4 +11,8 @@
   - the hash code method returns an integer value by converting Hexadecimal pseudo address into integer value
   - also a programmer can give his own value as hashcode value by overidding the hashCode() method i.e. overidden implementation
 
-  - example 
+  - example
+
+        1. refer the file DefHashCodeImpl.java code for the Default implementation of hashCode
+    
+        2. refer the file OverHashCodeImpl.java code for the Overidden implementation of hashCode
