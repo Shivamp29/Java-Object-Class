@@ -1,4 +1,4 @@
- Java-Object-Class repository we will learn about the following contents    
+# Java-Object-Class repository we will learn about the following contents    
 
   1. Object Class
   2. hashCode() method
