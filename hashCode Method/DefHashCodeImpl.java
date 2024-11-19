@@ -1,3 +1,4 @@
+
 // default implementation of hashCode()
 
 class demo1{
