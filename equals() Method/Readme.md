@@ -6,8 +6,10 @@
 
         public boolean equals( Object arg );
 
-  - the return type f the equals method is " boolean "
+  - the return type of the equals method is " boolean "
   - it returns the true if the both objects has the same hashCode value otherwise return false
+
+  - as we know that each object has unique hashCode value so we have to iverride the equals method
 
   - there are two implementations available for the equals method
       1. default implementation
@@ -25,3 +27,15 @@
        - ex.
              1. for overridden impl check " OveriddenImpl.java "
              2. for content based comparison check "ContentBasedComparison.java "
+
+**Difference between == and equals()**
+
+1. ==
+     - it compares the addresses
+     - it is  relational operator
+     - it can not be overidden
+  
+2. equals()
+     - default implementation compares the hashCode values
+     - it is method of object class
+     - it allows us to override
