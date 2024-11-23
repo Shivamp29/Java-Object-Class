@@ -1,6 +1,6 @@
 /*
 
-  1. Default Implementaion of euals method
+  1. Default Implementaion of equals() method
   
 */
 
