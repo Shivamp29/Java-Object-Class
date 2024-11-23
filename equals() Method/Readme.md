@@ -18,15 +18,15 @@
   1. Default Implementation
        - default implementation is works as same as the == symbol i.e. it compares the address
        - ex.
-             check the code " defaultImpl.java "
+             - check the code  defaultImpl.java 
       
   2. Overridden Implementation
        - it is nothing but a programmer can override the equals method to give his own implementation to compare to objects.
        - this implementation returns the programmer defined output
        - this implementaion is also used for " Content Based Comparison "
        - ex.
-             1. for overridden impl check " OveriddenImpl.java "
-             2. for content based comparison check "ContentBasedComparison.java "
+             1. for overridden impl check  OveriddenImpl.java 
+             2. for content based comparison check ContentBasedComparison.java 
 
 **Difference between == and equals()**
 
